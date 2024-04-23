@@ -4,10 +4,8 @@
 - [Project Overview](#project-overview)
 - [Data source](#Data-source)
 - [Analysis Tools used](#Analysis-Tools-used)
-- [Methodology](#project-methodology)
-- [Results and findings](#results-and-findings)
-- [Limitations](#limitations)
-- [Conclusion](#conclusion)
+- [Methodology](#Project-Methodology)
+- [Conclusion](#Conclusion)
 
 ## Project Overview
 Manchester United's underwhelming performance in the 2023-24 Premier League season, particularly in terms of goal scoring, necessitates the identification of potential striker targets to bolster their attack and increase their competitiveness.
@@ -143,7 +141,23 @@ Both the tables were joined
  SELECT * from final_strikers as fs INNER JOIN final_value as fv on fs.Player = fv.Player;
 ```
 ### Data visualization
-The data such as Player's Goals, G-PK, assists, Goals + assists, market value, contract expiry year, current club's location was visulalized
+The data such as Player's Goals, G-PK, assists, Goals + assists, market value, contract expiry year, current club's location was visulalized.
+
+<img width="630" alt="goals_assists" src="https://github.com/Guruprasad712/DATA_PRJECT_2/assets/160844022/4bdd76d8-851e-49a6-bffc-1faaed082474"><img width="599" alt="player_location" src="https://github.com/Guruprasad712/DATA_PRJECT_2/assets/160844022/7e452df9-b4a2-46a9-a81e-8cbeda1d52ab">
+
+<img width="631" alt="market_value and contract" src="https://github.com/Guruprasad712/DATA_PRJECT_2/assets/160844022/d548612d-24ab-4bcd-872c-a3f3a1788308">
+
+<img width="630" alt="goals_assists" 
+src="https://github.com/Guruprasad712/DATA_PRJECT_2/assets/160844022/26ff9f37-b699-4eeb-9f0a-73952bc631de">
+
+## Conclusion
+
+Leveraging the data analysis techniques, we were able to identify 17 promising striker targets from a pool of over 2600 players across Europe's top 5 leagues. This shortlist provides a valuable starting point for Manchester United FC to explore further, allowing them to focus their scouting efforts on strikers with the skills and performance history that could significantly contribute to their goal scoring and overall competitiveness in the upcoming seasons.
+
+
+
+
+
 
 
 
