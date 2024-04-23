@@ -1,0 +1,18 @@
+#,Player,Age,Pos,Nation,Squad,Comp,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,xG,xAG,"Gls per 90","Ast per 90","xG per 90","xAG per 90",G/xG,Start%,Player,market_value,contract_end
+1,"Serhou Guirassy",28,FW,GUI,Stuttgart,"de Bundesliga",23,20,1764,19.6,25,1,26,21,17.5,5.6,1.28,0.05,0.89,0.29,1.4285714285714286,0.8695652173913043,"Serhou Guirassy","₹320 Cr",2026
+2,"Kylian MbappÃ©",25,FW,FRA,"Paris S-G","fr Ligue 1",26,22,1933,21.5,24,6,30,18,19.5,4.9,1.12,0.28,0.91,0.23,1.2307692307692308,0.8461538461538461,"Kylian MbappÃ©","₹1440 Cr",2024
+3,"Lautaro MartÃ­nez",26,FW,ARG,Inter,"it Serie A",28,27,2269,25.2,23,2,25,21,15.8,2.6,0.91,0.08,0.62,0.1,1.4556962025316456,0.9642857142857144,"Lautaro MartÃ­nez","₹880 Cr",2026
+4,"LoÃ¯s Openda",24,FW,BEL,"RB Leipzig","de Bundesliga",29,28,2264,25.2,22,6,28,20,19.7,4.7,0.87,0.24,0.79,0.19,1.116751269035533,0.9655172413793104,"LoÃ¯s Openda","₹480 Cr",2028
+5,"Ollie Watkins",28,FW,ENG,"Aston Villa","eng Premier League",32,32,2790,31,19,10,29,19,15.3,5.5,0.61,0.32,0.5,0.18,1.2418300653594772,1,"Ollie Watkins","₹520 Cr",2028
+6,"Alexander Isak",24,FW,SWE,"Newcastle Utd","eng Premier League",24,21,1762,19.6,17,1,18,13,15.9,1.9,0.87,0.05,0.81,0.1,1.069182389937107,0.875,"Alexander Isak","₹560 Cr",2028
+7,"Artem Dovbyk",26,FW,UKR,Girona,"es La Liga",29,25,1995,22.2,17,5,22,13,16.3,4.3,0.77,0.23,0.73,0.19,1.0429447852760736,0.8620689655172413,"Artem Dovbyk","₹240 Cr",2028
+8,"Jonathan David",24,FW,CAN,Lille,"fr Ligue 1",28,24,2119,23.5,16,2,18,14,15.5,2.8,0.68,0.08,0.66,0.12,1.032258064516129,0.8571428571428571,"Jonathan David","₹400 Cr",2025
+9,"Borja Mayoral",27,FW,ESP,Getafe,"es La Liga",27,25,2153,23.9,15,1,16,11,11.9,1.4,0.63,0.04,0.5,0.06,1.2605042016806722,0.925925925925926,"Borja Mayoral","₹120 Cr",2027
+10,"Jarrod Bowen",27,FW,ENG,"West Ham","eng Premier League",31,31,2749,30.5,15,5,20,15,9.7,4.7,0.49,0.16,0.32,0.15,1.5463917525773196,1,"Jarrod Bowen","₹400 Cr",2030
+11,"Alexander SÃ¸rloth",28,FW,NOR,Villarreal,"es La Liga",27,23,1940,21.6,14,5,19,14,9,3.3,0.65,0.23,0.42,0.15,1.5555555555555556,0.8518518518518519,"Alexander SÃ¸rloth","₹120 Cr",2028
+12,"Bukayo Saka",22,FW,ENG,Arsenal,"eng Premier League",30,30,2492,27.7,14,8,22,9,13,8.7,0.51,0.29,0.47,0.31,1.0769230769230769,1,"Bukayo Saka","₹1,040 Cr",2027
+13,"Gorka Guruzeta",27,FW,ESP,"Athletic Club","es La Liga",30,28,2070,23,13,4,17,13,10.9,1.7,0.57,0.17,0.48,0.07,1.1926605504587156,0.9333333333333332,"Gorka Guruzeta","₹120 Cr",2028
+14,"Victor Osimhen",25,FW,NGA,Napoli,"it Serie A",20,18,1600,17.8,13,3,16,11,12.8,2.6,0.73,0.17,0.72,0.14,1.015625,0.9,"Victor Osimhen","₹880 Cr",2026
+15,"Hugo Duro",24,FW,ESP,Valencia,"es La Liga",31,30,2581,28.7,12,2,14,12,10.3,1.2,0.42,0.07,0.36,0.04,1.1650485436893203,0.967741935483871,"Hugo Duro","₹128 Cr",2026
+16,"Vinicius JÃºnior",23,FW,BRA,"Real Madrid","es La Liga",21,19,1562,17.4,12,4,16,12,10.1,3.2,0.69,0.23,0.58,0.19,1.188118811881188,0.9047619047619048,"Vinicius JÃºnior","₹1,200 Cr",2027
+17,"Youssef En-Nesyri",26,FW,MAR,Sevilla,"es La Liga",26,21,1950,21.7,11,1,12,11,7.3,1.2,0.51,0.05,0.34,0.06,1.5068493150684932,0.8076923076923077,"Youssef En-Nesyri","₹144 Cr",2025
