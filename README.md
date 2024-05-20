@@ -140,6 +140,11 @@ Both the tables were joined
 ```sql
  SELECT * from final_strikers as fs INNER JOIN final_value as fv on fs.Player = fv.Player;
 ```
+The table below shows the final list of players along with their club and country :
+
+<img width="434" alt="data_project_2_strikers" src="https://github.com/Guruprasad712/DATA_PROJECT_2/assets/160844022/f76274a6-58df-494b-9a5f-c58b55ef9a23">
+
+
 ### Data visualization
 The data such as Player's Goals, G-PK, assists, Goals + assists, market value, contract expiry year, current club's location was visulalized.
 
